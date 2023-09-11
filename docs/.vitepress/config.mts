@@ -24,11 +24,11 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/jaypancholi94' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/jay-pancholi' },
-      { icon: 'github', link: 'https://www.instagram.com/_jaypancholi_/' }
+      { icon: 'instagram', link: 'https://www.instagram.com/_jaypancholi_/' }
     ]
   },
   ignoreDeadLinks: true,
-  /* markdown: {
+  markdown: {
     config: (md) => {
       md.use(
         wikilinks({
@@ -37,5 +37,5 @@ export default defineConfig({
         })
       );
     },
-  }, */
+  },
 })

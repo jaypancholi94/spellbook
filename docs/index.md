@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: About
-      link: /about
+      link: /About
     - theme: alt
       text: VitePress
-      link: /Vitepress
+      link: /VitePress
 
 features:
   - icon: 🌱
