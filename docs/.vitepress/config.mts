@@ -12,7 +12,7 @@ export default defineConfig({
     logo: '/detective.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/about' }
+      { text: 'About', link: '/About' }
     ],
     sidebar: generateSidebar({
       documentRootPath: "docs/",
