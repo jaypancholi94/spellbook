@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown-examples.md",
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1eae2d016f31b876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown-examples.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown-examples.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown-examples.md"
+                "file": "index.md"
               }
             }
           },
@@ -165,12 +179,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1badfd7ce41e4765",
+  "active": "1eae2d016f31b876",
   "lastOpenFiles": [
-    "test.md",
+    "--config copy.mts 23-48-35-151.mts",
+    "--config copy.mts",
+    "About.md",
+    "about.md",
     "markdown-examples.md",
     "index.md",
+    "public/muscle.png",
+    "public/detective.png",
     "api-examples.md",
+    "test.md",
     "Projects/Autobots/Click Up.md",
     "Updates/2023-09-06 - Wednesday.md",
     "Updates/2023-09-05 - Tuesday.md",
@@ -192,9 +212,6 @@
     "Updates/Archive/2023-08-25 - Friday.md",
     "Updates/Archive/2023-08-21 - Monday.md",
     "Updates/Archive/2023-08-24 - Thursday.md",
-    "Updates/Archive/2023-08-23 - Wednesday.md",
-    "Projects/Projects.md",
-    "Projects/Waiter/Waiter.md",
     "Projects/Waiter",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -205,7 +222,6 @@
     "Updates/Kanban",
     "Experiments",
     "Projects/Host+",
-    "Projects",
     "Updates/Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas"
