@@ -23,3 +23,6 @@ pnpm-debug.log*
 # Vitepress
 **/.vitepress/dist
 **/.vitepress/cache
+
+# Obsidian
+docs/.obsidian/workspace.json

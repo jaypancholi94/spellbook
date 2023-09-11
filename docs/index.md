@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "SkipTheSearch"
-  text: "Discover. Document. Empower. 💪🏼"
-  tagline: "My Go-To Source When Google Leaves You Searching!"
+  text: "Discover. \nDocument. \nEmpower. 💪🏼"
+  tagline: "My Go-To Wiki Source When Google Leaves You Searching!"
   actions:
     - theme: brand
       text: About
