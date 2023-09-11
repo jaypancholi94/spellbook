@@ -28,7 +28,7 @@ export default defineConfig({
     ]
   },
   ignoreDeadLinks: true,
-  markdown: {
+  /* markdown: {
     config: (md) => {
       md.use(
         wikilinks({
@@ -37,5 +37,5 @@ export default defineConfig({
         })
       );
     },
-  },
+  }, */
 })
