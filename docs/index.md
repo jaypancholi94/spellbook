@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "SkipTheSearch"
+  name: 'SkipTheSearch'
   text: "Discover. \nDocument. \nEmpower. 💪🏼"
-  tagline: "My Go-To Wiki Source When Google Leaves You Searching!"
+  tagline: 'My Go-To Wiki Source When Google Leaves You Searching!'
   actions:
     - theme: brand
       text: About
@@ -19,10 +19,9 @@ features:
     title: Growing Garden
     details: This wiki will evolve and change as I look up more stuff.
   - icon: 💽
-    title: Cache 
+    title: Cache
     details: Think of it as my personal knowledge cache
   - icon: 🔗
     title: Broken Link
     details: There will be broken links, and may fix in future
 ---
-
