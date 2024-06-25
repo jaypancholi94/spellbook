@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: 'SkipTheSearch'
+  name: "SkipTheSearch"
   text: "Discover. \nDocument. \nEmpower. 💪🏼"
-  tagline: 'My Go-To Wiki Source When Google Leaves You Searching!'
+  tagline: "My Go-To Wiki Source When Google Leaves You Searching!"
   actions:
     - theme: brand
-      text: About
-      link: /About
+      text: "Who Am I ?"
+      link: /Who%20Am%20I
     - theme: alt
-      text: VitePress
-      link: /VitePress
+      text: "About"
+      link: /About
 
 features:
   - icon: 🌱

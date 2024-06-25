@@ -556,7 +556,7 @@ markdown-it-regexp@^0.4.0:
   resolved "https://registry.yarnpkg.com/markdown-it-regexp/-/markdown-it-regexp-0.4.0.tgz#d64d713eecec55ce4cfdeb321750ecc099e2c2dc"
   integrity sha512-0XQmr46K/rMKnI93Y3CLXsHj4jIioRETTAiVnJnjrZCEkGaDOmUxTbZj/aZ17G5NlRcVpWBYjqpwSlQ9lj+Kxw==
 
-markdown-it-wikilinks@^1.3.0:
+markdown-it-wikilinks@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/markdown-it-wikilinks/-/markdown-it-wikilinks-1.4.0.tgz#861f1a2f9ee5b79c15d66ec2c88f9422240ddea5"
   integrity sha512-LJhRWett3Do9doMMkpodOV5pvAMZjOOODqcifPfd+jdobhdg3UY8i824L5657UBWx7HSbOqicwNUzcVjOiswgw==
