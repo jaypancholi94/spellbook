@@ -21,13 +21,15 @@ const members = [
 
 <VPTeamMembers size="medium" :members="members" />
 ## Skills 👨🏻‍💻
-| Front End | <Badge type="info" text="Typescript" />, <Badge type="info" text="Javascript" />, <Badge type="info" text="React" /> , <Badge type="info" text="Next.js" />, <Badge type="info" text="React Native" />, <Badge type="info" text="VitePress" />, <Badge type="info" text="Storybook" />, <Badge type="info" text="Cypress" /> |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Front&#160;End | <Badge type="info" text="Typescript" />, <Badge type="info" text="Javascript" />, <Badge type="info" text="React" />, <Badge type="info" text="Next.js" />, <Badge type="info" text="React Native" />, <Badge type="info" text="VitePress" />, <Badge type="info" text="Storybook" />, <Badge type="info" text="Cypress" /> |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Back&#160;End  | <Badge type="info" text="Node.js" />, <Badge type="info" text="Express.js" />, <Badge type="info" text="PHP" />                                                                                                                                                                                                             |
+| CMS            | <Badge type="info" text="Sanity" />, <Badge type="info" text="WordPress" />, <Badge type="info" text="Craft" /><br>                                                                                                                                                                                                         |
 ## Career 💼
 
-### Full Stack Developer @ _Inlight_
+### Full Stack Developer
 
-#### 🗓️ August 2022 - Present
+#### 🗓️ August 2022 - Present 💼 _Inlight_
 
 Worked closely with Inlight team using agile methodology to deliver high-quality
 solutions to clients. Proficient in front-end and back-end development, CMS
@@ -66,17 +68,16 @@ robust systems across various projects
 - Developed unit tests and Cypress tests to ensure reliability and robustness
 - Ensured full accessibility of components and pages to meet AAA standards
 
-### Full Stack Developer @ _Zash Ventures_
+### Full Stack Developer
 
-#### 🗓️ March 2021 - July 2022
+#### 🗓️ March 2021 - July 2022 💼 _Zash Ventures_
 
 - Designed the system architecture for Veztr.
 - Worked on the Veztr App to bridge the gap between investors and startups using agile methodology.
 - Built APIs using Node.js and Express.js, with Sequelize for MySQL database management.
 
-### WordPress Developer @ _C2 Capital_
-
-#### 🗓️ March 2020 - March 2021
+### WordPress Developer
+#### 🗓️ March 2020 - March 2021 💼 _C2 Capital_
 
 - Developed an online LMS app using PHP, Node, React, and WordPress.
 - Designed a Node (Express) API to handle requests and filters efficiently.
@@ -86,7 +87,7 @@ robust systems across various projects
 - API is build in Node.js and applied auth0 for security
 - Provided help in design, development and code maintenance.
 
-### Freelance work
+### Freelance work 🤝
 
 ##### Whitefox
 
@@ -100,28 +101,34 @@ robust systems across various projects
 - Facilitated the connection between item finders and owners by allowing QR code scans to provide owner contact information
 - Enhanced the lost and found process, ensuring easy and efficient item recovery for users
 
-## Projects
+## Projects 🗂️
 
 ### SkipTheSearch
-
+#### [GitHub](https://github.com/jaypancholi94/SkipTheSearch) | [Preview](https://skip-the-search.vercel.app)
 - Created a comprehensive repository to consolidate all my learnings from various tools and packages
 - Designed to solve the problem of recalling past internet resources quickly and efficiently for developers
 - Built using VitePress.js and Obsidian, and hosted on Vercel for easy access
 
 ### Ticket Management System API
-
+#### [GitHub](https://github.com/jaypancholi94/Ticket-Management-System-API)
 - Developed as a beginner to understand authentication and API mechanisms
 - Built the API using Node.js and Express, with Sequelize for database management
 - Implemented JSON Web Token (JWT) for authentication and middleware setup
 - Enabled basic functionalities such as user creation, ticket creation, updating, and deletion
 
 ### 2048
-
+#### [GitHub](https://github.com/jaypancholi94/2048) | [Preview](https://2048-nine-gray.vercel.app/)
 - Developed a replica of the 2048 game using React and Redux to learn and understand efficient state management
 - Implemented matrix transpose methods to build the core logic of the game, making the development process engaging and educational
 - Explored the Material-UI design library to enhance the user interface
 - Enabled functionality allowing players to select game layouts ranging from 2x2 to 8x8 matrices.
 
-## Certificates
-
-## Education
+## Certificates 🏅
+- 2019 - Swift 4 Essential Training
+- 2019 - iOS 11 Development Essential Training: Application Architecture
+- 2015 - Oracle JAVA Certified Professional
+## Education 🎓
+### Master of Information Technology
+ 🗓️ 2017 - 2019 🏫 Swinburn University 📍Australia
+### Bachelor of Information Technology
+ 🗓️ 2012 - 2016 🏫 CHARUSAT 📍India
