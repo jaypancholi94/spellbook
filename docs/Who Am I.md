@@ -11,7 +11,7 @@ const members = [
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/jay-pancholi' }, 
       { icon: 'discord', link: 'https://www.discordapp.com/users/w4r10ck' }, 
       { icon: 'instagram', link: 'https://www.instagram.com/_jaypancholi_/' }, 
-      { icon: 'facebook', link: 'https://www.facebook.com/Jay.D.Pancholi/' }, 
+       { icon: 'facebook', link: 'https://www.facebook.com/Jay.D.Pancholi/' }, 
     ],
   }
 ]

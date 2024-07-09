@@ -31,11 +31,10 @@ If you prefer minimalist design you should configure iTerm2 as I did
 
 1. Open iTerms2 preferences. `cmd + ,`
 2. Go To `Appearance`
-
-- Set Theme to `Compact`
-- Tab bar location to `Top`
-- Status bar location to `Bottom`
+	- Set Theme to `Compact`
+	- Tab bar location to `Top`
+	- Status bar location to `Bottom`
 
 3. Go to `Profiles` and create new profile clicking `+`
 
-- I am using `Snazzy` as colour scheme, [here you can explore more schemes](https://iterm2colorschemes.com/)
+I am using `Snazzy` as colour scheme, [here you can explore more schemes](https://iterm2colorschemes.com/)
