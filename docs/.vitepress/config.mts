@@ -19,6 +19,7 @@ export default defineConfig({
     sidebar: generateSidebar({
       documentRootPath: "docs/",
     }),
+    outline: [2, 3],
     search: {
       provider: "local",
     },
