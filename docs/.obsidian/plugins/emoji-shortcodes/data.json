@@ -1,0 +1,18 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":heavy_plus_sign:",
+    ":gear:",
+    ":art:",
+    ":hammer_and_wrench:",
+    ":bulb:",
+    ":arrow_down:",
+    ":zzz:",
+    ":smile:",
+    ":hammer:",
+    ":zap:"
+  ]
+}

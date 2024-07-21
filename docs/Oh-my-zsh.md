@@ -1,6 +1,6 @@
 # oh-my-zsh
 
-## Installation
+## 🛠 Installation
 
 1. You'll need `zsh` to install **Oh My Zsh**. Run `zsh --version` to check if you have it:
 
@@ -17,7 +17,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 **NOTE: the installer will rename an existing `.zshrc` file to `.zshrc.pre-oh-my-zsh`.**
 
-## Theme Installation
+## 🎨 Theme Installation
 ### Powerlevel10k
 [Powerlevel10k](https://github.com/romkatv/powerlevel10k) is the most versatile theme on market which can be rich and minimalistic at the same time. To install it use below command
 
@@ -52,7 +52,7 @@ starship preset nerd-font-symbols -o ~/.config/starship.toml
 ```
  4. If you still want more customisation, then simply modify `~/.config/starship.toml`. 
 
-## Useful Plugins
+## ➕ Useful Plugins
 
 1. Clone plugin to `~/.oh-my-zsh/custom}/plugins` directory
 
@@ -90,7 +90,7 @@ Here are some cool plugin I use the most
 - zsh-autosuggestions
 - f-sy-h
 More plugin can be find [here](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins).
-## Cheatsheet
+## 📝Cheat sheet
 
 Quick reference:
 

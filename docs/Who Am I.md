@@ -93,10 +93,12 @@ robust systems across various projects
 ## Projects 🗂️
 ### Nobel Prize Search
 #### [GitHub](https://github.com/jaypancholi94/nobel-prize-search) | [Preview](https://nobel-prize-search.vercel.app/)
-- 
+- Developed an application that updates data in real-time upon text field changes, ensuring the most current information is displayed. Implemented quality search ranking to display the most relevant results at the top
+- Utilized useEffect for debouncing input in text fields, reducing unnecessary API calls and enhancing performance. Implemented pagination for efficient data management, allowing users to navigate large data sets easily
+- Integrated Fuse.js for fuzzy search functionality with customizable parameters. Ensured a fully responsive design using Tailwind CSS, and utilized Shadcn.ui for accessible UI components. Implemented shareable URLs for easy query sharing and fetched up-to-date Nobel Prize data from the Nobel Prize API
 ### Overlapping Rectangle
-#### [GitHub](https://github.com/jaypancholi94/SkipTheSearch) | [Preview](https://skip-the-search.vercel.app)
-- 
+#### [GitHub](https://github.com/jaypancholi94/overlapping-rectangle) | [Preview](https://overlapping-rectangle.vercel.app)
+- Developed a function in TypeScript to determine if two rectangles overlap based on their top, bottom, left, and right coordinates, enhancing problem-solving skills and algorithmic thinking.
 ### SkipTheSearch
 #### [GitHub](https://github.com/jaypancholi94/SkipTheSearch) | [Preview](https://skip-the-search.vercel.app)
 - Created a comprehensive repository to consolidate all my learnings from various tools and packages

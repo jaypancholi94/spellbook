@@ -1,10 +1,7 @@
-# Terminal
-
-## Terminal: The Dev's Not-So-Secret Love Affair 😂
-
+# Terminal: The Dev's Not-So-Secret Love Affair 😂
 Ah, the terminal - that quirky, old-school friend of developers! 🤓 It's like a time machine to the '80s, but trust me, it's not just for nostalgia. This bad boy handles coding, project juggling, and even unleashes our inner script-magicians. 🧙‍♂️ It's like the ultimate multitool, and who doesn't love feeling like a command-line superhero? 🦸‍♂️ Stick around, and we'll unveil all the secrets of this retro-cool, text-based wizardry! 😎🚀
 
-## List of terminals
+## 💻 List of terminals
 
 Terminal that I have used in past
 
@@ -12,7 +9,7 @@ Terminal that I have used in past
 2. [iTerm2](#iterm2) - Most customisable terminal in the market. Just imagine built-in terminal on steroid 💊
 3. [Warp](https://www.warp.dev/): Terminal with ai power
 
-## shell
+## 🐚 shell
 
 in a nutshell, the shell is your coding maestro, while the terminal is the messenger boy, shuttling your commands to and fro. They're a dynamic duo, working together to bring your code to life, even if they sometimes give you a bewildered look when you're not clear about what you want. 🧙‍♂️🍽️
 

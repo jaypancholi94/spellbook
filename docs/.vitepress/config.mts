@@ -18,6 +18,7 @@ export default defineConfig({
     ],
     sidebar: generateSidebar({
       documentRootPath: "docs/",
+      sortMenusByName: true,
     }),
     outline: [2, 3],
     search: {

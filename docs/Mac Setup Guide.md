@@ -3,12 +3,12 @@
 Congratulations, you've just unboxed your sleek new MacBook! 🎉 Setting up your MacBook can sometimes feel like deciphering ancient hieroglyphs with a magnifying glass 🔍, but fear not, This guide is here to make it as smooth as butter on a warm toast. So, grab your favourite beverage and let's transform your Mac into the coding wizard's wand you've always dreamed of. 
 #### who said tech setups can't be fun? 😉
 
-## Developer's must have application
+## 🏆 Developer's must have application
 These are the application which I use the most and can't live without it
 1. [[Terminal]]
 2. [[VS Code]]
 3. [GitHub Desktop](https://desktop.github.com) - Don't know git commands? don't worry just download the GitHub Desktop Client and it will manage commands underneath 😛 
-## Productivity Tool
+## 🔧 Productivity Tool
 Found out about these ones searching 
 1. [[Obsidian]] - THE BEST markdown editor in the market and its FREEEEEE!
 2. [Things 3](https://culturedcode.com/things/) - To-Do list app. It's a trap ⚠️, if you purchase one application, you will end up buying all 😝
@@ -19,7 +19,7 @@ Found out about these ones searching
 4. [Alfred 5](https://www.alfredapp.com/) - In simple words, Alfred is the best replacement of spotlight search, we perform using `cmd + space`
 5. [Arc Browser](https://arc.net) - Try once and you will never go back to Chrome
 6. [Cheatsheet](https://www.mediaatelier.com/CheatSheet) - If you like shortcut as I do, but can't remember? Don't worry. Cheatsheet will show you all the shortcuts for current focused window/app. Just press and hold `cmd`
-## Security
+## 🛡️ Security
 I prefer 1Password over BitWarden, but here is a quick comparison
 ### [1Password](https://1password.com)
 #### Pros 👍🏻

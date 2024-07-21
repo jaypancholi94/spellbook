@@ -1,0 +1,2 @@
+# VS Code
+So, I’ve decided to ditch VS Code and embrace [[LazyVim]]. Because apparently, I needed even _more_ ways to over complicate my life with keystrokes and configurations. Who knew simplicity could be so… involved? 😅🔧🖋️
