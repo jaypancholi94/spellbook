@@ -28,8 +28,7 @@ const members = [
 ## Career 💼
 
 ### Full Stack Developer
-
-#### 🗓️ August 2022 - Present 💼 _Inlight_
+**🗓️ August 2022 - Present 💼 _Inlight_**
 
 Worked closely with Inlight team using agile methodology to deliver high-quality
 solutions to clients. Proficient in front-end and back-end development, CMS
@@ -38,47 +37,39 @@ Experienced in writing thorough documentation, conducting tests, and maintaining
 robust systems across various projects
 
 ##### Nando’s AU & NZ
-
 - Led a comprehensive UI overhaul for Nando's Australia and New Zealand websites
 - Implemented Framer Motion animations to enhance basting user experience Utilised LaunchDarkly feature toggles to efficiently manage test components
 - Regularly updated and maintained promotional free delivery offers
 
 ##### Vicinity
-
 - Enhanced UI/UX by implementing front-end tweaks using React and Storyblok CMS
 - Developed a custom plugin in Vite.js for Storyblok to automate promotions based on date and time logic
 - Wrote a Python script to bulk modify/remove unused fields in the mall database
 
 ##### Make a wish
-
 - Revamped UI components in Twig, giving a fresh look to the Make-A-Wish website
 - Added new filter fields to Craft CMS to enhance content management capabilities.
 - Assisted in managing, maintaining and deploying the donation form built in React as npm package, ensuring version and stability.
 
 ##### Sosltice
-
 - Designed and developed components in Vanilla Extract for Sanity CMS
 - Connected form input fields to React Hook Form for efficient data handling
 - Created a custom multi-file upload feature, integrating with Resend service to email files.
 - Configured CMS and maintained the front-end using TypeScript.
 
 ##### Transport Accident Commission (TAC) - How Safe Is Your Car
-
 - Built front-end search functionality, filters, and ANCAP page using TypeScript and Next.js
 - Developed unit tests and Cypress tests to ensure reliability and robustness
 - Ensured full accessibility of components and pages to meet AAA standards
 
 ### Full Stack Developer
-
-#### 🗓️ March 2021 - July 2022 💼 _Zash Ventures_
-
+ **🗓️ March 2021 - July 2022 💼 _Zash Ventures_**
 - Designed the system architecture for Veztr.
 - Worked on the Veztr App to bridge the gap between investors and startups using agile methodology.
 - Built APIs using Node.js and Express.js, with Sequelize for MySQL database management.
 
 ### WordPress Developer
-#### 🗓️ March 2020 - March 2021 💼 _C2 Capital_
-
+**🗓️ March 2020 - March 2021 💼 _C2 Capital_**
 - Developed an online LMS app using PHP, Node, React, and WordPress.
 - Designed a Node (Express) API to handle requests and filters efficiently.
 - Integrated Stripe as a payment gateway for seamless transactions.
@@ -90,19 +81,22 @@ robust systems across various projects
 ### Freelance work 🤝
 
 ##### Whitefox
-
 - Developed a WordPress form for a real estate company to streamline the collection of client information
 - Included payment options and quotation features within the form to enhance functionality
 - Implemented PHPMailer to send SMTP emails to WhiteFox agents
 
 ##### My Little Tag
-
 - Developed a lost and found website that generates unique QR codes for customers, AirTag was introduced
 - Facilitated the connection between item finders and owners by allowing QR code scans to provide owner contact information
 - Enhanced the lost and found process, ensuring easy and efficient item recovery for users
 
 ## Projects 🗂️
-
+### Nobel Prize Search
+#### [GitHub](https://github.com/jaypancholi94/nobel-prize-search) | [Preview](https://nobel-prize-search.vercel.app/)
+- 
+### Overlapping Rectangle
+#### [GitHub](https://github.com/jaypancholi94/SkipTheSearch) | [Preview](https://skip-the-search.vercel.app)
+- 
 ### SkipTheSearch
 #### [GitHub](https://github.com/jaypancholi94/SkipTheSearch) | [Preview](https://skip-the-search.vercel.app)
 - Created a comprehensive repository to consolidate all my learnings from various tools and packages
@@ -117,7 +111,7 @@ robust systems across various projects
 - Enabled basic functionalities such as user creation, ticket creation, updating, and deletion
 
 ### 2048
-#### [GitHub](https://github.com/jaypancholi94/2048) | [Preview](https://2048-nine-gray.vercel.app/)
+#### [GitHub](https://github.com/jaypancholi94/2048) | [Preview](https://2048-the-game.vercel.app/)
 - Developed a replica of the 2048 game using React and Redux to learn and understand efficient state management
 - Implemented matrix transpose methods to build the core logic of the game, making the development process engaging and educational
 - Explored the Material-UI design library to enhance the user interface

@@ -38,7 +38,7 @@ To configure `Powelevel10K`, type `p10k configure`
 ### Starship - cross-shell prompt
 If you are a person, who does not want to get into theme setup rabbit hole, then Starship is for you. It is simple to install and setup. Starship also provide presents.
 #### Installation & Configuration
-1. [[Brew]] install
+1. [[Homebrew]] install
 ```shell
 brew install starship
 ```
