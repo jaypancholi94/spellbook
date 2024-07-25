@@ -38,7 +38,7 @@ A guide to using Vim, a powerful and configurable text editor. This documentatio
 		- `/` for search 
 		- `?` for reverse search from Normal mode.
 	- **Exit Command-line Mode**: Press `Esc` or `Enter` after typing the command.
-## 📝Cheat sheet
+## 📝Cheat Sheet
 `<C...` : Control button
 ### Basics
 | Key        | Description                    | Mode           |

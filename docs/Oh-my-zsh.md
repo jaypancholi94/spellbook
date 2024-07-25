@@ -90,7 +90,7 @@ Here are some cool plugin I use the most
 - zsh-autosuggestions
 - f-sy-h
 More plugin can be find [here](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins).
-## 📝Cheat sheet
+## 📝Cheat Sheet
 
 Quick reference:
 
