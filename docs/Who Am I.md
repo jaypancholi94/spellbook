@@ -25,7 +25,7 @@ const members = [
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Back&#160;End  | <Badge type="info" text="Node.js" />, <Badge type="info" text="Express.js" />, <Badge type="info" text="PHP" />                                                                                                                                                                                                             |
 | CMS            | <Badge type="info" text="Sanity" />, <Badge type="info" text="WordPress" />, <Badge type="info" text="Craft" /><br>                                                                                                                                                                                                         |
-## Career 💼
+## 💼 Career 
 
 ### Full Stack Developer
 **🗓️ August 2022 - Present 💼 _Inlight_**
@@ -78,7 +78,7 @@ robust systems across various projects
 - API is build in Node.js and applied auth0 for security
 - Provided help in design, development and code maintenance.
 
-### Freelance work 🤝
+### 🤝 Freelance work 
 
 ##### Whitefox
 - Developed a WordPress form for a real estate company to streamline the collection of client information
@@ -90,7 +90,7 @@ robust systems across various projects
 - Facilitated the connection between item finders and owners by allowing QR code scans to provide owner contact information
 - Enhanced the lost and found process, ensuring easy and efficient item recovery for users
 
-## Projects 🗂️
+## 🗂️ Projects 
 ### Nobel Prize Search
 #### [GitHub](https://github.com/jaypancholi94/nobel-prize-search) | [Preview](https://nobel-prize-search.vercel.app/)
 - Developed an application that updates data in real-time upon text field changes, ensuring the most current information is displayed. Implemented quality search ranking to display the most relevant results at the top
@@ -119,11 +119,11 @@ robust systems across various projects
 - Explored the Material-UI design library to enhance the user interface
 - Enabled functionality allowing players to select game layouts ranging from 2x2 to 8x8 matrices.
 
-## Certificates 🏅
+## 🏅 Certificates 
 - 2019 - Swift 4 Essential Training
 - 2019 - iOS 11 Development Essential Training: Application Architecture
 - 2015 - Oracle JAVA Certified Professional
-## Education 🎓
+## 🎓 Education 
 ### Master of Information Technology
  🗓️ 2017 - 2019 🏫 Swinburn University 📍Australia
 ### Bachelor of Information Technology

@@ -2,11 +2,10 @@ import { defineConfig } from "vitepress";
 import { generateSidebar } from "vitepress-sidebar";
 import wikilinks from "markdown-it-wikilinks";
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "SkipTheSearch",
   titleTemplate: "Discover. Document. Empower. 💪🏼",
-  description: "A VitePress Site",
+  description: "SkipTheSearch",
   head: [["link", { rel: "icon", href: "/detective.png" }]],
   themeConfig: {
     logo: "/detective.png",
@@ -19,7 +18,6 @@ export default defineConfig({
     sidebar: generateSidebar({
       documentRootPath: "docs/",
       sortMenusByName: true,
-      collapsed: false,
     }),
     outline: [2, 3],
     search: {

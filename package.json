@@ -2,7 +2,7 @@
   "name": "@itactuallyworks/wiki",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Jay Pancholi",
+  "author": "Jay Pancholi <jaypancholi94@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "vitepress": "^1.0.0-rc.10"
