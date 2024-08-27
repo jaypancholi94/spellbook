@@ -4,3 +4,5 @@
 ## DRY
 Don't Repeat Yourself
 
+## Sharding
+separating different rows of information from the table and storing them on different machines
