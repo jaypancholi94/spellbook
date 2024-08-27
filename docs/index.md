@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "SkipTheSearch"
+  name: "SpellBook"
   text: "Discover. \nDocument. \nEmpower. 💪🏼"
   tagline: "My Go-To Wiki Source When Google Leaves You Searching!"
   actions:
