@@ -3,7 +3,7 @@
 
 Have ever found yourself wrestling with mysterious runtime errors in JavaScript, TypeScript might just be your new best friend. It's like putting on a pair of glasses 👓, suddenly, everything is so much clearer! TypeScript brings the power of strong typing to JavaScript, making your code more robust, scalable, and fun to write.
 
-## 🤔 What is TypeScript? 
+## 📜 What is TypeScript? 
 TypeScript is a super-set of JavaScript that adds optional static types. Highlight that it was developed by Microsoft and has quickly become a favourite among **developers** who love JavaScript but crave more structure and safety.
 
 ## ⚔️ JavaScript vs. TypeScript: The Key Differences 
@@ -44,6 +44,6 @@ The TypeScript community is growing rapidly, and with it, the ecosystem of tools
 - Overusing `any`, which can defeat the purpose of using TypeScript( Don't use `any`🙅‍♂️).
 - Ignoring strict `null` checks, leading to potential runtime errors.
 
-## TypeScript Tips and Tricks 💡
+## 💡TypeScript Tips and Tricks
 - Using mapped types and conditional types for advanced type manipulations.
 - Leveraging utility types like `Partial`, `Readonly`, `Record`, etc.
