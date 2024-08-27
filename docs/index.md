@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "SpellBook"
   text: "Explore. \nCapture. \nElevate  🚀"
-  tagline: "Your Secret Scroll When Google’s Sorcery Falls Flat!"
+  tagline: "My Secret Scroll When Google’s Sorcery Falls Flat!"
   actions:
     - theme: brand
       text: "Who Am I ?"
