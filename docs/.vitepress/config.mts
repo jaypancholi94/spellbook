@@ -3,16 +3,16 @@ import { generateSidebar } from "vitepress-sidebar";
 import wikilinks from "markdown-it-wikilinks";
 
 export default defineConfig({
-  title: "SkipTheSearch",
+  title: "SpellBook",
   titleTemplate: "Discover. Document. Empower. 💪🏼",
-  description: "SkipTheSearch",
-  head: [["link", { rel: "icon", href: "/detective.png" }]],
+  description: "SpellBook",
+  head: [["link", { rel: "icon", href: "/spellbook.png" }]],
   themeConfig: {
     logo: "/detective.png",
     nav: [
       {
         text: "Changelog",
-        link: "https://github.com/jaypancholi94/SkipTheSearch/commits/main",
+        link: "https://github.com/jaypancholi94/spellbook/commits/main",
       },
     ],
     sidebar: generateSidebar({
