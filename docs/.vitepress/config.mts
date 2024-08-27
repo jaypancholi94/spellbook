@@ -4,11 +4,11 @@ import wikilinks from "markdown-it-wikilinks";
 
 export default defineConfig({
   title: "SpellBook",
-  titleTemplate: "Discover. Document. Empower. 💪🏼",
+  titleTemplate: "Explore. Capture. Elevate. 🚀",
   description: "SpellBook",
   head: [["link", { rel: "icon", href: "/spellbook.png" }]],
   themeConfig: {
-    logo: "/detective.png",
+    logo: "/spellbook.png",
     nav: [
       {
         text: "Changelog",

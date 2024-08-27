@@ -1,11 +1,10 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "SpellBook"
-  text: "Discover. \nDocument. \nEmpower. 💪🏼"
-  tagline: "My Go-To Wiki Source When Google Leaves You Searching!"
+  text: "Explore. \nCapture. \nElevate  🚀"
+  tagline: "Your Secret Scroll When Google’s Sorcery Falls Flat!"
   actions:
     - theme: brand
       text: "Who Am I ?"
@@ -16,12 +15,12 @@ hero:
 
 features:
   - icon: 🌱
-    title: Growing Garden
-    details: This wiki will evolve and change as I look up more stuff.
-  - icon: 💽
-    title: Cache
-    details: Think of it as my personal knowledge cache
+    title: Flourishing Garden
+    details: An Ever-Blooming Wiki, Nurtured by Curiosity and Constant Discovery!
+  - icon: 🔮
+    title: Enchanted Cache
+    details: Consider this my personal vault of wisdom, brimming with enchanted insights and arcane knowledge
   - icon: 🔗
-    title: Broken Link
-    details: There will be broken links, and may fix in future
+    title: Shattered Portals
+    details: Some enchanted pathways may be broken now, but fear not—restoration spells may mend them in time
 ---
