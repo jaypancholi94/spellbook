@@ -11,6 +11,10 @@ export default defineConfig({
     logo: "/spellbook.png",
     nav: [
       {
+        text: "MuggleBorn",
+        link: "https://muggleborn.dev",
+      },
+      {
         text: "Changelog",
         link: "https://github.com/jaypancholi94/spellbook/commits/main",
       },

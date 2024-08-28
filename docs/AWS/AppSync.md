@@ -1,5 +1,10 @@
 # AppSync
 AWS AppSync simplifies the development of GraphQL APIs by connecting them to various data sources like databases, microservices, and APIs. It allows you to build scalable, real-time applications with features like offline data access, data synchronization, and subscriptions for real-time updates.
+## 🧩 AppSync API main components
+- [[GraphQL]] schema
+- Resolvers
+- Data Sources
+- API Keys or Authentication Mechanisms
 ## ⚙ How it works:
 1. **GraphQL API**: AppSync provides a GraphQL API that you can use to query and manipulate data. It acts as an interface between your front-end applications and the data sources.
 2. **Data Sources**: AppSync connects to various data sources, such as DynamoDB, Lambda, Elasticsearch, and HTTP endpoints. You define resolvers to map your GraphQL queries to these data sources.
