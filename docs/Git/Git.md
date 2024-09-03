@@ -188,3 +188,4 @@ git stash drop
 
 ##  🫠Overwhelmed?
 If all those features seem a bit overwhelming, then [[LazyGit]] is your go-to terminal-based UI project. Because, obviously, who wouldn’t want to streamline their Git experience to the point where it practically does everything for you? 😅🚀
+
