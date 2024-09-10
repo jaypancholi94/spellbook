@@ -20,7 +20,7 @@ features:
   - icon: 🔮
     title: Enchanted Cache
     details: Consider this my personal vault of wisdom, brimming with enchanted insights and arcane knowledge
-  - icon: 🔗
+  - icon: ⛓️‍💥
     title: Shattered Portals
     details: Some enchanted pathways may be broken now, but fear not—restoration spells may mend them in time
 ---
