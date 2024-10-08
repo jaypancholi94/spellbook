@@ -8,7 +8,24 @@ export default withMermaid({
     title: "SpellBook",
     titleTemplate: "Explore. Capture. Elevate. 🚀",
     description: "SpellBook",
-    head: [["link", { rel: "icon", href: "/spellbook.png" }]],
+    head: [
+      [
+        "script",
+        {
+          async: "",
+          src: "https://www.googletagmanager.com/gtag/js?id=G-KEH7XC8FNF",
+        },
+      ],
+      [
+        "script",
+        {},
+        `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-KEH7XC8FNF');`,
+      ],
+      ["link", { rel: "icon", href: "/spellbook.png" }],
+    ],
     themeConfig: {
       logo: "/spellbook.png",
       nav: [
