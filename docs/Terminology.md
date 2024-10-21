@@ -12,3 +12,9 @@ Document Object Model
 
 ## Higher-Order Component (HOC)
 A higher-order component (HOC) is a function that takes a component and returns a new component with additional features or behavior. HOCs are a technique in React that allows developers to reuse logic across components, which can help to prevent code repetition and make applications more maintainable
+
+## SSG
+Static Site Generation
+
+## SSR
+Server Side Rendering
