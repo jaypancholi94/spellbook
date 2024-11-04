@@ -1,3 +1,5 @@
+# GraphQL
+
 [GraphQL](https://graphql.org) is a query language for APIs and a server-side runtime for executing queries by providing a complete and understandable description of your data. Unlike REST, which uses multiple endpoints, GraphQL uses a single endpoint to handle all queries and mutations.
 
 ## 🤔 Why use GraphQL?
