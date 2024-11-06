@@ -1,5 +1,5 @@
 # Turborepo
-Managing a monorepo? Bold choice! Instead of handling a circus of [repos](Terminology#Repo), you've chosen the streamlined path with [Turborepo](https://turbo.build). It's the ultimate multitasker, ensuring everything in your projects lands smoothly like an air traffic controller for code.
+Managing a monorepo? Bold choice! Instead of handling a circus of [repos](Terminology.md#Repo), you've chosen the streamlined path with [Turborepo](https://turbo.build). It's the ultimate multitasker, ensuring everything in your projects lands smoothly like an air traffic controller for code.
 ## Key Features That Make Turborepo Awesome 🤝
 - **Incremental Builds:** Only rebuild what's changed. It's efficient, like doing only the laundry you need.
 - **Task Orchestration:** Runs tasks in the right order, like a symphony, not a mess.
@@ -43,4 +43,4 @@ Integrating multiple tools with Turborepo creates a streamlined and consistent d
 - **[[Tailwind]] CSS:** Manage and reuse style configurations across multiple applications, keeping your design consistent.
 - **[[Storybook]]:** Set up and maintain a unified Storybook for all components, making it easy to develop, document, and test UI elements in isolation.
 - **[[ESLint]]:** Apply consistent coding standards across all projects by setting up shared linting rules, ensuring code quality and reducing technical debt.
-- **Constants:** Share values like API endpoints or magic numbers in one place to keep your code [DRY](Terminology#DRY).
+- **Constants:** Share values like API endpoints or magic numbers in one place to keep your code [DRY](Terminology.md#DRY).

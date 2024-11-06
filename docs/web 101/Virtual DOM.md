@@ -1,5 +1,5 @@
 # Virtual DOM
-Before diving into the Virtual DOM, let's get a grip on what the [DOM](Terminology#dom) is. The DOM is a programming interface that represents the structure of a web page. Think of it as a tree where each node is an element (like `<div>`, `<p>`, etc.) on the page. Here’s a simple Mermaid diagram to visualize it:
+Before diving into the Virtual DOM, let's get a grip on what the [DOM](Terminology.md#dom) is. The DOM is a programming interface that represents the structure of a web page. Think of it as a tree where each node is an element (like `<div>`, `<p>`, etc.) on the page. Here’s a simple Mermaid diagram to visualize it:
 ```mermaid
 graph TD;
     HTML-->HEAD;

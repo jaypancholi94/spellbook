@@ -56,7 +56,7 @@ Design your schema to balance flexibility and performance. Consider embedding re
 - **Embedding:** Useful for one-to-few relationships.
 - **Referencing:** Suitable for one-to-many or many-to-many relationships.
 ### 📦 Sharding
-[Sharding](Terminology#Sharding) distributes data across multiple servers to handle large datasets and high-throughput operations.
+[Sharding](Terminology.md#Sharding) distributes data across multiple servers to handle large datasets and high-throughput operations.
 ```JavaScript
 sh.enableSharding("myDatabase");
 db.collection.createIndex({ shardKey: 1 });

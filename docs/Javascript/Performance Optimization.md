@@ -2,7 +2,7 @@
 Memoization in React is a technique used to **optimize performance** by caching values or functions so that React can skip unnecessary re-renders. Let’s break down the three primary tools for memoization in React: `React.memo`, `useMemo`, and `useCallback`.
 
 ## `React.memo`
-`React.memo` is a [higher-order component (HOC)](/Terminology#higher-order-component-hoc) that memoizes a **functional component**. It prevents the component from re-rendering unless its **props** change. It’s similar to `PureComponent` for class components.
+`React.memo` is a [higher-order component (HOC)](Terminology.md#higher-order-component-hoc) that memoizes a **functional component**. It prevents the component from re-rendering unless its **props** change. It’s similar to `PureComponent` for class components.
 ### How it works:
 - React.memo checks if the props of a component have changed. If not, it skips rendering the component, thus optimizing performance.
 ### Example:
