@@ -29,11 +29,35 @@
  *Not supported in PostgreSQL and MySQL databases.
 ** Supported only in Oracle databases.
 :::
-## SQL Joins
+## Joins
 - `(INNER) JOIN`: Returns records that have matching values in both tables
 - `LEFT (OUTER) JOIN`: Returns all records from the left table, and the matched records from the right table
 - `RIGHT (OUTER) JOIN`: Returns all records from the right table, and the matched records from the left table
 - `FULL (OUTER) JOIN`: Returns all records when there is a match in either left or right table
+## Relationships
+1. `One-to-One Relationship`: In a **`one-to-one`** relationship, a single record in one table is associated with a single record in another table. This type of relationship is less common but can be used when one table’s data is a direct extension of another.
+2. `One-to-Many Relationship`: A **`one-to-many`** relationship occurs when a single record in one table can be associated with multiple records in another table. This is the most common type of relationship in relational databases.
+3. `Many-to-Many Relationship`: A **`many-to-many`** relationship occurs when multiple records in one table are associated with multiple records in another table. This relationship typically requires a **junction table** to store the associations between the tables.
+
+##  Keys: Unique Identifiers in SQL
+In relational databases, a **key** is a unique identifier for records in a table. Keys are essential for establishing relationships and ensuring data integrity.
+### **Primary Key**
+
+A **Primary Key** is a column (or a set of columns) that uniquely identifies each row in a table. It must contain unique values and cannot contain **NULL** values. This ensures that each record is distinguishable from others.
+
+For example, a `User` table might have a `user_id` column as the primary key, ensuring each user is uniquely identified.
+
+### **Foreign Key**
+
+A **Foreign Key** is a column (or a set of columns) in one table that links to the **Primary Key** of another table. It is used to establish and enforce a link between the data in two tables, creating relationships such as one-to-many or many-to-many.
+
+For example, an `Orders` table may contain a `user_id` foreign key that links to the `id` primary key of the `Users` table. This ensures that each order is associated with a specific user.
+
+## ACID Properties
+- **Consistency**: A transaction takes the database from one valid state to another, ensuring that the database adheres to all defined rules, including constraints, before and after the transaction.
+- **Isolation**: Transactions are isolated from each other, meaning the actions of one transaction do not interfere with those of another. Each transaction is executed as though it is the only one running.
+- **Durability**: Once a transaction is committed, it’s permanent. Even in the event of a system crash or failure, the transaction will not be lost.
+
 ## 📝 SQL Syntax Cheat Sheet
 ### Select
 ``` sql

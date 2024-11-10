@@ -18,3 +18,12 @@ Static Site Generation
 
 ## SSR
 Server Side Rendering
+
+## JSON
+JavaScript Object Notation
+
+## BSON
+Binary Javascript Object Notation
+
+## XXS
+Cross Site Scripting
