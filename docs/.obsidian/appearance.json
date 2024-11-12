@@ -1,8 +1,9 @@
 {
-  "accentColor": "#008cb4",
+  "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Tokyo Night",
   "translucency": true,
-  "baseFontSize": 18,
-  "baseFontSizeAction": true
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
