@@ -81,7 +81,6 @@ Store your tokens securely, preferably in HTTP-only cookies, to prevent them fro
 Always use HTTPS for all communication involving JWTs to prevent tokens from being intercepted during transit (man-in-the-middle attacks).
 
 ## 🏁 Conclusion
-
 JWTs are an excellent choice for modern web applications when you need to manage user authentication and authorization. Their stateless nature, security features, and cross-domain capabilities make them versatile and easy to integrate into your stack. However, like any technology, they come with security considerations that need to be handled carefully.
 
 So, if you're building an app that requires secure and efficient user management, JWTs might just be your best friend!
