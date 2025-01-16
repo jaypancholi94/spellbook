@@ -1,9 +1,6 @@
 {
-  "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Tokyo Night",
-  "translucency": true,
-  "baseFontSize": 16,
-  "baseFontSizeAction": true,
-  "nativeMenus": false
+  "accentColor": "#00c3c0",
+  "translucency": false
 }

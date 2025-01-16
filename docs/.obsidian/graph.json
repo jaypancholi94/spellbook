@@ -1,44 +1,58 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "People",
+      "query": "path:\"Exco Partners/People\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 3574519
       }
     },
     {
-      "query": "Projects",
+      "query": "path:\"Exco Partners/Updates\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16600654
       }
     },
     {
-      "query": "Updates",
+      "query": "path:Templates  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Exco Partners/Teams\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2670068
+      }
+    },
+    {
+      "query": "path:\"Exco Partners/Fair Work Commission\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7781666
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": false,
+  "collapse-display": true,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.67471516927083,
+  "lineSizeMultiplier": 2.38810221354167,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 13.1640625,
+  "centerStrength": 0.2698974609375,
+  "repelStrength": 10.8268229166667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7291928534150859,
+  "linkDistance": 173,
+  "scale": 1.7231950818346118,
   "close": true
 }

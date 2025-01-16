@@ -1,0 +1,93 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCodeSquare",
+      "LiCheckSmall",
+      "LiShield",
+      "LiGitBranch",
+      "LiShieldQuestion"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Exco Partners/People": {
+    "iconName": "LiUser",
+    "iconColor": "#368af7"
+  },
+  "Exco Partners/Updates/Notes": {
+    "iconName": "LiNotebook",
+    "iconColor": "#fd4e4e"
+  },
+  "Exco Partners/Updates": {
+    "iconName": "LiBookMarked",
+    "iconColor": "#fd4e4e"
+  },
+  "Exco Partners/Updates/Notes - Birdeye.md": {
+    "iconName": "LiEye",
+    "iconColor": "#fd4e4e"
+  },
+  "Exco Partners/Terminology.md": {
+    "iconName": "LiTextCursorInput",
+    "iconColor": "#fd4e4e"
+  },
+  "Exco Partners/Fair Work Commission/Links.md": {
+    "iconName": "LiLink",
+    "iconColor": "#76bd22"
+  },
+  "Exco Partners/Fair Work Commission": {
+    "iconName": "LiLandmark",
+    "iconColor": "#76bd22"
+  },
+  "Exco Partners/Teams": {
+    "iconName": "LiUsers",
+    "iconColor": "#28bdf4"
+  },
+  "Exco Partners/Fair Work Commission/CSP Setup Readme.md": {
+    "iconName": "LiFileCode",
+    "iconColor": "#76bd22"
+  },
+  "Exco Partners/Fair Work Commission/git/Branch Related Questions.md": {
+    "iconName": "LiShieldQuestion",
+    "iconColor": "#76bd22"
+  },
+  "Exco Partners/Fair Work Commission/git": {
+    "iconName": "FabGit",
+    "iconColor": "#76bd22"
+  },
+  "Exco Partners/Fair Work Commission/Essential Eight Assessment Document.md": {
+    "iconName": "LiShield",
+    "iconColor": "#76bd22"
+  },
+  "Exco Partners/Fair Work Commission/Definition of Done (DoD).md": {
+    "iconName": "LiCheckSmall",
+    "iconColor": "#76bd22"
+  },
+  "Exco Partners/Fair Work Commission/git/Code Base Best Practices.md": {
+    "iconName": "LiCodeSquare",
+    "iconColor": "#76bd22"
+  }
+}
