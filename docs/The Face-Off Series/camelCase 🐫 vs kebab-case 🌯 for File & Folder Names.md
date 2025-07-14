@@ -7,8 +7,6 @@ description: "Which naming style is best for modern file and folder naming? Here
 
 Naming conventions can shape readability, portability, and dev ergonomics. When it comes to file and folder names, the two common contenders are `camelCase` and `kebab-case`. Here’s a head-to-head breakdown to help you choose the right one for your projects.
 
----
-
 ## 🖥️ Cross-Platform Compatibility
 
 **camelCase**  
@@ -18,8 +16,6 @@ Naming conventions can shape readability, portability, and dev ergonomics. When 
 ✅ Lowercase and hyphenated — no casing ambiguity. It behaves consistently across all operating systems and avoids weird Git diffs.
 
 **Verdict:** `kebab-case` is safer and more reliable in team environments.
-
----
 
 ## 👁️ Readability
 
@@ -31,8 +27,6 @@ Naming conventions can shape readability, portability, and dev ergonomics. When 
 
 **Verdict:** `kebab-case` wins for visual clarity.
 
----
-
 ## 🌐 Web and CLI Friendliness
 
 **camelCase**  
@@ -42,8 +36,6 @@ Naming conventions can shape readability, portability, and dev ergonomics. When 
 ✅ Designed for web paths and CLI usage. Works great in `/routes/get-started` or terminal commands like `vite-plugin-name`.
 
 **Verdict:** `kebab-case` is cleaner for URLs and command-line tools.
-
----
 
 ## 🧱 Ecosystem Convention
 
@@ -55,8 +47,6 @@ Naming conventions can shape readability, portability, and dev ergonomics. When 
 
 **Verdict:** `kebab-case` aligns with ecosystem norms.
 
----
-
 ## 🧠 Context Clarity
 
 **camelCase**  
@@ -67,8 +57,6 @@ Naming conventions can shape readability, portability, and dev ergonomics. When 
 
 **Verdict:** `kebab-case` offers better contextual separation.
 
----
-
 ## ✅ Final Take
 
 Stick with **`camelCase`** for code (variables, functions, props)  
@@ -76,7 +64,6 @@ Use **`kebab-case`** for files and folders
 
 > It’s simpler, safer, easier to type, and aligns with modern tooling.
 
----
 
 ## 📌 TL;DR
 
@@ -88,11 +75,9 @@ Use **`kebab-case`** for files and folders
 | Ecosystem alignment    | ❌ Rare          | ✅ Common          | kebab-case     |
 | Code/file distinction  | 😕 Mixed         | ✅ Obvious         | kebab-case     |
 
----
 
 ## 📚 Further Reading
 
 - [Naming Cheatsheet by @kettanaito](https://github.com/kettanaito/naming-cheatsheet)
 - [npm Package Naming Rules](https://docs.npmjs.com/cli/v10/configuring-npm/package-json#name)
 
-Want to see `PascalCase` vs `kebab-case` next? Ping me ⚡
